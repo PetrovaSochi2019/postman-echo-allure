@@ -1,0 +1,14 @@
+{
+  "Date": "Mon, 24 Aug 2026 20:01:59 GMT",
+  "Content-Type": "application/json; charset=utf-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "etag": "W/\"101-VsBOTWZxHWJlfmZ7htJquPbf0TY\"",
+  "vary": "Accept-Encoding",
+  "x-envoy-upstream-service-time": "5",
+  "cf-cache-status": "DYNAMIC",
+  "Set-Cookie": "sails.sid=s%3AJeLSULLGDQfUdoZ0SfP6_pDnSt_O2-HG.x9IzLW1FL6oe9FLtdKKVFvK0IUE7%2FszIl%2FB44uZ73Jo; Path=/; HttpOnly, __cf_bm=owtPDdD9MfyfBRsf8aLBH7wcVCcB_veb3xrFBi_XpK4-1787601719.2456393-1.0.1.1-ZpYkmibgSxqvZdAa_LfNU.wl0dqslFD6j.v6xbLr2.p3Boz3Xe4XqjI4vVeE17KoqbcRLz7FcVzc2Gc6B3aQnwNptolbL2jFEPkxmmjOmvKW2o.4pX42XogliHUlYPIy; HttpOnly; SameSite=None; Secure; Path=/; Domain=postman-echo.com; Expires=Mon, 24 Aug 2026 20:31:59 GMT, _cfuvid=TEDwES8X63OGbQlMe0_YWojabE4wkEf3xSIeCj0f39A-1787601719.2456393-1.0.1.1-tS.GajWzBKp25EfH4XTqYZHymax7zdQfjKN5CTK7ASg; HttpOnly; SameSite=None; Secure; Path=/; Domain=postman-echo.com",
+  "Content-Encoding": "gzip",
+  "Server": "cloudflare",
+  "CF-RAY": "a304f3b93f16bacb-IAD"
+}

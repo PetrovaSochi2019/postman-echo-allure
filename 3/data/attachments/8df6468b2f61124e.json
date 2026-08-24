@@ -1,0 +1,6 @@
+{
+  "headers": {
+    "X-Trace-Id": "abc-123",
+    "X-Client": "pytest"
+  }
+}

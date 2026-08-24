@@ -1,0 +1,12 @@
+{
+  "files": {
+    "report": [
+      "report.txt",
+      "b'line1\\nline2'",
+      "text/plain"
+    ]
+  },
+  "data": {
+    "comment": "upload"
+  }
+}

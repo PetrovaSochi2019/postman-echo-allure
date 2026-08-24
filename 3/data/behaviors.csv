@@ -1,0 +1,8 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","postman-echo.com","0","Негативные проверки","5","0","Чужой HTTP-метод","0"
+"0","postman-echo.com","0","GET /get","1","0","Методы","0"
+"0","postman-echo.com","0","POST /post","3","0","Тело запроса","0"
+"0","postman-echo.com","0","POST /post","1","0","Загрузка файлов","0"
+"0","postman-echo.com","0","POST /post","1","0","Квери-параметры","0"
+"0","postman-echo.com","0","GET /get","1","0","Квери-параметры","0"
+"0","postman-echo.com","0","GET /get","1","0","Заголовки","0"

@@ -1,0 +1,12 @@
+{
+  "json": {
+    "id": 42,
+    "tags": [
+      "qa",
+      "api"
+    ],
+    "nested": {
+      "ok": true
+    }
+  }
+}
