@@ -55,6 +55,11 @@ jobs:
           allure_history: allure-history
           keep_reports: 20
 
+      # allure-report-action работает в docker и оставляет в allure-history
+      # .git от root — peaceiris не может его удалить (EACCES) и падает.
+      - name: Drop root-owned .git from the generated report
+        run: sudo rm -rf allure-history/.git
+
       - name: Publish report to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
